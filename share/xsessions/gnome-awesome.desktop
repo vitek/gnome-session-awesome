@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=GNOME Flashback (Awesome)
+Comment=This session logs you into GNOME Flashback with Awesome
+Exec=/usr/lib/gnome-flashback/gnome-flashback-awesome
+TryExec=awesome
+Type=Application
+DesktopNames=GNOME-Flashback;GNOME;Awesome;Awesome GNOME;
+X-Ubuntu-Gettext-Domain=gnome-flashback

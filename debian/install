@@ -1,0 +1,3 @@
+share/* /usr/share/
+lib/* /usr/lib/
+systemd/* /lib/systemd/

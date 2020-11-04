@@ -1,0 +1,5 @@
+debian/files
+debian/gnome-session-awesome.debhelper.log
+debian/gnome-session-awesome.substvars
+debian/gnome-session-awesome/
+debian/.debhelper/

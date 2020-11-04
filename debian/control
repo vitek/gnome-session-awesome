@@ -1,0 +1,15 @@
+Source: gnome-session-awesome
+Priority: extra
+Maintainer: Victor Makarov <vitja.makarov@gmail.com>
+Build-Depends: debhelper
+Standards-Version: 3.7.2
+
+Package: gnome-session-awesome
+Architecture: all
+Depends:
+    awesome (>= 4.1.0),
+    awesome-extra,
+    gnome-screensaver,
+    gnome-session,
+    gnome-session-flashback
+Description: GNOME awesome session
