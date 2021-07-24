@@ -1,3 +1,9 @@
+gnome-session-awesome (0.0.2) unstable; urgency=medium
+
+  * Start awesome with -a flag
+
+ -- Victor Makarov <vitja.makarov@gmail.com>  Sat, 24 Jul 2021 13:15:51 +0300
+
 gnome-session-awesome (0.0.1) unstable; urgency=medium
 
   * Initial release
